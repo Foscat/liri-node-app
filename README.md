@@ -1,6 +1,8 @@
 # liri-node-app
 
-![alt text](https://raw.githubusercontent.com/Foscat/liri-node-app/path/to/node-app/bandsintown.png)
+![alt text](https://raw.githubusercontent.com/Foscat/liri-node-app/node-app/bandsintown.png)
+
+![Alt text](liri-node-app/node-app/bandsintown.png?raw=true "Title")
 
 ![alt text](https://raw.githubusercontent.com/Foscat/liri-node-app/node-app/omdb.png)
 
