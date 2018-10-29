@@ -7,7 +7,9 @@ What info you get back depends on what api you use in your search.
 The first word you put in the command line after node liri-bot.js is your api selector.
 
 music = spotify api
+
 movie = OMDb api
+
 band = bandsintown api
 
 The input after that will be read as the search query.
